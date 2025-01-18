@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+h1 {
+    font-size: 20px;
+    text-align: center;
+    background-color: aquamarine;
+    color: darkgreen;
+}
+.dolor {
+    font: size 15px;
+    text-align: center;
+    color: darkslateblue;
+    background-color: lightgreen;
+    margin: 50px;
+    height: 300px;
+    padding: 20px;
+    
+}
